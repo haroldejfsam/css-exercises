@@ -1,0 +1,19 @@
+.orangeBG {
+    background-color: #ffa500;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: hsl(120, 100%, 25%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bigger {
+    font-size: 24px;
+}
